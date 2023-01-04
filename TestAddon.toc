@@ -1,0 +1,5 @@
+## Interface: 100002
+## Title: Test Addon
+## Notes: Just playin' around.
+## Version: 0.1
+TestAddon.lua
